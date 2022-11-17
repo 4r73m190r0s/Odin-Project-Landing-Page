@@ -32,6 +32,11 @@ a {
 
 .arabica-vs-robusta img {
 	margin: 0 auto;
+	max-height: 120px;
+}
+
+.description {
+	margin-top: 20px;
 }
 
 .hero p,
